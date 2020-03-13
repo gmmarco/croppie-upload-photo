@@ -1,0 +1,25 @@
+
+.img-fotografia-preview {
+    position: relative;width: 142 px;height: 172 px;text-align: center;margin: 0 auto
+}.img-fotografia-preview: hover img {
+    opacity: .5;z-index: 99999
+}.img-preview-uploaded {
+    width: 140 px;height: 170 px
+}.img-firma-preview {
+    position: relative;width: 250 px;height: 110 px;text-align: center;margin: 60 px auto 0
+}.img-huella-preview {
+    position: relative;width: 100 px;height: 130 px;text-align: center;margin: 40 px auto 0
+}.profile-img-container {
+    position: relative;width: 202 px;height: 252 px;text-align: center;margin: 0 auto 5 px
+}.profile-img-container div, .profile-img-container i {
+    position: absolute;top: 40 % ;left: 50 % ;transform: translate(-50 % , -50 % );display: none
+}.img-preview-selected {
+    width: 200 px;height: 250 px;margin-bottom: 10 px
+}.alineacion-vertical {
+    vertical-align: middle
+}.img-description {
+    width: 90 px;font-size: 12 px;text-align: center;font-weight: 700;line-height: 12 px;margin-top: 30 px
+}.titulo-foto {
+    position: relative;color: #888;letter-spacing:1px}.btn-file{position:relative;overflow:hidden}.btn-file input[type= file] {
+    position: absolute;top: 0;right: 0;min-width: 100 % ;min-height: 100 % ;font-size: 100 px;text-align: right;opacity: 0;outline: 0;background: #fff;cursor: inherit;display: block
+}
